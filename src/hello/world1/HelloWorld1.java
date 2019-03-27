@@ -17,6 +17,7 @@ public class HelloWorld1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("I AM KEZIAH");
+        System.out.println("I AM HERE");
     }
     
 }
